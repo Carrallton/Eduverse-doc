@@ -2,10 +2,10 @@
 
 ## Group 1
 
-* [About Eduverse](README.md)
-  * [Problem and Solution](<README (1).md>)
-  * [Identity Use Cases](group-1/about-eduverse/identity-use-cases.md)
-  * [FAQ](group-1/about-eduverse/faq.md)
+* [О Eduverse](README.md)
+  * [Problem and Solution](group-1/o-eduverse/about-eduverse.md)
+  * [Identity Use Cases](group-1/o-eduverse/identity-use-cases.md)
+  * [FAQ](group-1/o-eduverse/faq.md)
 
 ## Group 2
 
