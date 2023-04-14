@@ -3,7 +3,7 @@
 ## Group 1
 
 * [About Eduverse](README.md)
-  * [Problem and Solution](group-1/about-eduverse/readme.md)
+  * [Problem and Solution](<README (1).md>)
   * [Identity Use Cases](group-1/about-eduverse/identity-use-cases.md)
   * [FAQ](group-1/about-eduverse/faq.md)
 
